@@ -9,4 +9,4 @@ This project was originally developed as part of a technical assessment. It demo
 
 The code has been adapted for public viewing and does not include any proprietary prompts or data.
 
-📬 Want to know more? Feel free to reach out!
+📬 Want to know more? Feel free to reach out at lupiensimon@hotmail.com!
