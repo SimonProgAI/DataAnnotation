@@ -7,6 +7,4 @@ This project was originally developed as part of a technical assessment. It demo
 - Dynamic SVG generation using mapped coordinates and symbols
 - Unicode handling and array manipulation
 
-The code has been adapted for public viewing and does not include any proprietary prompts or data.
-
 📬 Want to know more? Feel free to reach out at lupiensimon@hotmail.com!
